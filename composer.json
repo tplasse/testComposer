@@ -7,11 +7,11 @@
             "email": "thibaut.plasse@geauto.fr"
         }
     ],
-    "minimum-stability": "alpha",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
-        "psr-0": {
-            "HelloWorld": "src/"
+        "psr-4": {
+            "HelloWorld\\": "src/"
         }
     }
 }
